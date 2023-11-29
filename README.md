@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Learning React Router | Net Ninja YT 
 
-This is a simple website that I created while learning about React Router.
+This is a simple website that I created while learning React Router.
 
 - [Folder structure](#folder-structure)
 - [Overview](#overview)
